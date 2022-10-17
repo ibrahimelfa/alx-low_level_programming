@@ -1,0 +1,2 @@
+#!/bin/batch
+gcc -c $CFILE -o ${CFILE/c/o}
