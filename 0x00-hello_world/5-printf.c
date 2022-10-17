@@ -2,7 +2,7 @@
 int main(void)
 /**
  * main - Entry point
- * Description: C program that uses printf.
+ * Description: C program that prints exactly Programming.
  * Return: Always 0 (Success)
  */
 {
