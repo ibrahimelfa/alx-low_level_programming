@@ -12,15 +12,13 @@ int main(void)
 	return (0);
 }
 /**
- * main - Entry point
- * Description: C program that prints exactly Programming.
- * Return: Always 0 (Success)
+ * print_alphabet - prints the alphabet .
  */
 void print_alphabet(void)
 {
 	char l;
 
-	for (l = 'a' ; l < 'z' ; l++)
+	for (l = 'a' ; l <= 'z' ; l++)
 		printf("%c", l);
 	printf("\n");
 }
