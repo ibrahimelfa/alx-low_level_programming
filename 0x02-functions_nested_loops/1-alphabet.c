@@ -14,6 +14,11 @@ int main(void)
 
 void print_alphabet(void)
 {
+	/**
+	* main - Entry point
+	* Description: C program that prints exactly Programming.
+	* Return: Always 0 (Success)
+	*/
 	char l;
 
 	for (l = 'a' ; l < 'z' ; l++)
