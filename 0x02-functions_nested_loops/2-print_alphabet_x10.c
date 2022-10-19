@@ -18,6 +18,7 @@ void print_alphabetx10(void)
 {
 	char l;
 	int i;
+
 	for (i = 0 ; i <= 10 ; i++)
 	{
 		for (l = 'A' ; l <= 'Z' ; l++)
