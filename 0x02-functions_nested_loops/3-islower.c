@@ -23,8 +23,6 @@ int main(void)
  */
 int _islower(int c)
 {
-	char l;
-
 	if (c >= 'a' && c <= 'z')
 		return (1);
 	else
