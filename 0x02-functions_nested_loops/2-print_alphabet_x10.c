@@ -4,17 +4,17 @@
  * Description: C program that prints exactly Programming.
  * Return: Always 0 (Success)
  */
-void print_alphabet_x10(void);
+void print_alphabetx10(void);
 
 int main(void)
 {
-	print_alphabet_x10();
+	print_alphabetx10();
 	return (0);
 }
 /**
  * print_alphabet - prints the alphabet .
  */
-void print_alphabet_x10(void)
+void print_alphabetx10(void)
 {
 	char l;
 	int i;
