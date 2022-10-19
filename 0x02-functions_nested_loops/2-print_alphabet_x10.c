@@ -17,12 +17,12 @@ int main(void)
 void print_alphabet_x10(void)
 {
 	char l;
-  int i;
-  
-  for (i = 0;i <= 10;i++)
-  {
-    for (l = 'A' ; l <= 'Z' ; l++)
-      putchar(l);
-    putchar('\n');
-  }
+	int i;
+	
+	for (i = 0;i <= 10;i++)
+	{
+		for (l = 'A' ; l <= 'Z' ; l++)
+			putchar(l);
+		putchar('\n');
+	}
 }
