@@ -12,13 +12,12 @@ int main(void)
 	return (0);
 }
 /**
- * print_alphabet - prints the alphabet .
+ * print_alphabetx10 - prints the alphabet .
  */
 void print_alphabetx10(void)
 {
 	char l;
 	int i;
-	
 	for (i = 0 ; i <= 10 ; i++)
 	{
 		for (l = 'A' ; l <= 'Z' ; l++)
